@@ -1,3 +1,9 @@
 This is the first file.
+<<<<<<< HEAD
 
+=======
+Alina Adhikari
+Kaveri Shrestha
+Sandhya 
+>>>>>>> 9da86f4b5ace88a74d0e1de373bd079e79d5703c
 
